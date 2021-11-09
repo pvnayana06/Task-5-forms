@@ -1,0 +1,78 @@
+body
+{
+    margin-top: 10px;
+    font-family: sans-serif;
+    color: #353535;
+    font: medium;
+}
+
+.background
+{
+    
+    background-color: rgb(70, 46, 221);
+    background-size: cover;
+    height: 100%;
+    
+}
+input
+{
+    padding: 2px;
+    border:2px;
+    margin-top: 2px;
+    width: auto;
+    font-size: medium;
+}
+
+select
+{
+    padding: 2px;
+    border:2px;
+    margin-top: 2px;
+    width: auto;
+    font-size: medium;
+}
+
+label
+{
+    font-size: medium;
+    text-align: right;
+
+}
+.fbform{
+    background-image: url("https://cdn.wallpapersafari.com/13/35/NbMw8f.jpg");
+    width: 500px;
+    height: 500px;
+    font-size: medium;
+    box-shadow:2px 2px 15px rgba(0,0,0.0.3);
+    color:rgb(65, 65, 65);
+    
+    
+}
+.main
+{
+    text-align: center;
+    padding: 50px;
+    font-family: sans-serif;
+    width: 700px;
+    margin: 20px 530px;
+}
+
+.submit
+{
+    
+    width: 30%;
+    height: 40px;
+    border: 1px solid;
+    border-color:  rgb(1, 24, 1);
+    background: #05d633;
+    font-size: 18px;
+
+    font-weight: 700;
+
+}
+.root
+{
+        margin: 6px 30px;
+        text-align: left;
+        font-family: sans-serif;
+}
